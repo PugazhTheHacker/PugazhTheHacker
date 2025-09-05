@@ -38,14 +38,13 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anyth
 
 
 # 📊 TryHackMe
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Pranav.V.png" align="center" height="150" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/pugazhenthij283.png" alt="Your Image Badge" />
 
 # 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=PugazhTheHacker&theme=dark&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PugazhTheHacker-V-20&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PugazhTheHacker&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 
