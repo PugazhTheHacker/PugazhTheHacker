@@ -1,5 +1,3 @@
-![banner](https://github.com/user-attachments/assets/49df2d88-8214-4716-951c-e8ac3d17f04c)
-
 # 💫 Hi 👋, I'm Pugazhenthi J
 *A passionate Cyber Security || Ethical Hacker ||  from India*
 
@@ -13,7 +11,6 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anyth
 - 📄 *Know about my experiences:* [Resume]()
 - ⚡ *Fun fact:* If you want to crack a system, First understand the system.
 
-<div style="text-align: center;"> <img src="https://spyboyblog.wordpress.com/wp-content/uploads/2025/04/dont-e1743754230810.png" alt="spyboy" style="max-width: 100%;"> </div>
 
 ## 🌐 Socials:
 <p align="left">
@@ -48,9 +45,7 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anyth
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?PugazTheHacker=P&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
+![](https://github-profile-trophy.vercel.app/?username=Pranav-V-20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 [![](https://visitcount.itsvg.in/api?id=PugazhTheHacker&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
