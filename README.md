@@ -1,24 +1,23 @@
 ![banner](https://github.com/user-attachments/assets/49df2d88-8214-4716-951c-e8ac3d17f04c)
 
-# 💫 Hi 👋, I'm Pranav Vijayakumar 
+# 💫 Hi 👋, I'm Pugazhenthi J
 *A passionate Cyber Security || Ethical Hacker ||  from India*
 
-Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 *I’m currently learning:* Cyber Security at S.A.Engineering College.
+- 🌱 *I’m currently learning:* AVC college (autonomous) mayladuthurai.
 - 👯 *I’m looking to collaborate on:* Cyber Security & Ethical Hacking.
 - 💬 *Ask me about:* Ethical Hacking, Cyber Security, Bug Bountry.
-- 📫 *How to reach me:* pranavvijayakumar20@gmail.com
-- 😄 *Pronouns:* Pranav Sir
-- 👨‍💻 *All of my projects are available at:* [Portfolio](https://pranav-v-20.github.io/Portfolio/)
-- 📄 *Know about my experiences:* [Resume](https://drive.google.com/file/d/1xZqblrY7QGSwq5gjIuPr1SZbVwpmkECs/view)
+- 📫 *How to reach me:* pugazhenthij283@gmail.com
+- 😄 *Pronouns:* pugazh
+- 📄 *Know about my experiences:* [Resume]()
 - ⚡ *Fun fact:* If you want to crack a system, First understand the system.
 
 <div style="text-align: center;"> <img src="https://spyboyblog.wordpress.com/wp-content/uploads/2025/04/dont-e1743754230810.png" alt="spyboy" style="max-width: 100%;"> </div>
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/pranav-v-8886252a4" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="pranav-v" height="35" /></a> <a href="https://instagram.com/pra_nav_20_" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="pra_nav_20_" height="35" /></a> 
+<a href="https://linkedin.com/in/pranav-v-8886252a4" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="pugazhenthi" height="35" /></a> <a href="https://instagram.com/official__pugazh_007" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="official__pugazh_007" height="35" /></a> 
 </p>
 
 # In Code:
@@ -45,8 +44,8 @@ Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or A
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pranav-V-20&theme=dark&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pugazhenthi-j-V-20&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PugazhTheHacker&theme=dark&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PugazhTheHacker-V-20&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 
@@ -55,8 +54,8 @@ Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or A
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pranav-V-20&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PugazhTheHacker&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav-V-20&bg_color=000000&color=ffffff&line=00d10e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pugazh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PugazhTheHacker&bg_color=000000&color=ffffff&line=00d10e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
