@@ -17,7 +17,7 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anyth
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/pranav-v-8886252a4" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="pugazhenthi" height="35" /></a> <a href="https://instagram.com/official__pugazh_007" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="official__pugazh_007" height="35" /></a> 
+<a href="https://linkedin.com/in/pugazh28" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="pugazhenthi" height="35" /></a> <a href="https://instagram.com/official__pugazh_007" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="official__pugazh_007" height="35" /></a> 
 </p>
 
 # In Code:
@@ -38,8 +38,7 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anyth
 
 
 # 📊 TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/pugazhenthij283.png" alt="Your Image Badge" />
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5466439" style='border:none;'></iframe>
 # 📊 GitHub Stats:
 
 <div align="center">
