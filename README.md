@@ -34,7 +34,7 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anyth
 
 
 # 📊 TryHackMe
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5466439" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/pugazhenthij283.png" alt="Your Image Badge" />
 # 📊 GitHub Stats:
 
 <div align="center">
