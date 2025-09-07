@@ -10,10 +10,7 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anyth
 - 😄 *Pronouns:* pugazh
 - 📄 *Know about my experiences:* [Resume]()
 - ⚡ *Fun fact:* If you want to crack a system, First understand the system.
-- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PugazhTheHacker&show_icons=true)
-
-
+  
 ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/pugazh28" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="pugazhenthi" height="35" /></a> <a href="https://instagram.com/official__pugazh_007" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="official__pugazh_007" height="35" /></a> 
