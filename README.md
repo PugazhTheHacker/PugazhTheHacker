@@ -10,6 +10,8 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anyth
 - 😄 *Pronouns:* pugazh
 - 📄 *Know about my experiences:* [Resume]()
 - ⚡ *Fun fact:* If you want to crack a system, First understand the system.
+- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PugazhTheHacker&show_icons=true)
 
 
 ## 🌐 Socials:
