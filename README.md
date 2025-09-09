@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Pugazhenthi J
-*A passionate Cyber Security || Ethical Hacker ||  from India*
+*A passionate Cyber Security || Ethical Hacker || from India*
 
-Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anything Else.😊😊
 
 - 🌱 *I’m currently learning:* AVC college (autonomous) mayladuthurai.
 - 👯 *I’m looking to collaborate on:* Cyber Security & Ethical Hacking.
@@ -39,7 +39,7 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anyth
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=PugazhTheHacker&theme=dark&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PugazhTheHacker&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PugazhTheHacker&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"/>
 </div>
 
 
