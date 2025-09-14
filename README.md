@@ -52,4 +52,3 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anyth
 
 
 [![Pugazh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PugazhTheHacker&bg_color=000000&color=ffffff&line=00d10e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
