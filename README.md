@@ -18,7 +18,7 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anyth
 <a href="https://linkedin.com/in/pugazh28" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="pugazhenthi" height="35" /></a> <a href="https://instagram.com/official__pugazh_007" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="official__pugazh_007" height="35" /></a> 
 </p>
 
-# In Code:
+# In Code: 
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000" /> 
 
