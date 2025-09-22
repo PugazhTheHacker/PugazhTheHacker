@@ -31,7 +31,7 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anyth
 </div>
 
 <div align="center">
-  <img src="https://i.gifer.com/origin/3e/3e38d5bb0a7aeedc6fd1083d8c4de631.gif" alt="Matrix rain animation" />
+  <imgsrc="https://i.gifer.com/origin/3e/3e38d5bb0a7aeedc6fd1083d8c4de631.gif" alt="Matrix rain animation" />
 </div>
 
 
