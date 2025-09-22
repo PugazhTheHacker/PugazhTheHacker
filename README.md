@@ -11,7 +11,7 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anyth
 - 📄 *Know about my experiences:* [Resume]()
 - ⚡ *Fun fact:* If you want to crack a system, First understand the system.
   
-## 🌐 Socials:
+## 🌐 Socials: 
  
 
 <p align="left">
