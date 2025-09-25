@@ -1,7 +1,7 @@
  # 💫 Hi 👋, I'm Pugazhenthi J
 *A passionate Cyber Security || Ethical Hacker || from India* 
  
-Email Me 👉 ✉ *Pugazhenthij283@gmail.com* For Collaboration/Project or Anything Else.😊😊  
+Email Me 👉 ✉ *Pugazhenthij283@gmail.com*  For Collaboration/Project or Anything Else.😊😊  
  
 - 🌱 *I’m currently learning:* AVC college (autonomous) mayladuthurai.     
 - 👯 *I’m looking to collaborate on:* Cyber Security & Ethical Hacking.
