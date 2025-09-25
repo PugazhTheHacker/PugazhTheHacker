@@ -9,7 +9,7 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com*  For Collaboration/Project or Anyt
 - 📫 *How to reach me:* pugazhenthij283@gmail.com      
 - 😄 *Pronouns:* pugazh
 - 📄 *Know about my experiences:* [Resume]()
-- ⚡ *Fun fact:* If you want to crack a system, First understand the system.
+- ⚡ *Fun fact:* If you want to crack a system, First understand the system.    
   
 ## 🌐 Socials: 
  
