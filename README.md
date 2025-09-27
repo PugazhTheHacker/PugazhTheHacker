@@ -5,7 +5,7 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com*  For Collaboration/Project or Anyt
                 
 - 🌱 *I’m currently learning:* AVC college (autonomous) mayladuthurai.     
 - 👯 *I’m looking to collaborate on:* Cyber Security & Ethical Hacking.
-- 💬 *Ask me about:* Ethical Hacking, Cyber Security, Bug Bountry.     
+- 💬 *Ask me about:* Ethical Hacking, Cyber Security, Bug Bountry.         
 - 📫 *How to reach me:* pugazhenthij283@gmail.com      
 - 😄 *Pronouns:* pugazh                 
 - 📄 *Know about my experiences:* [Resume]()
