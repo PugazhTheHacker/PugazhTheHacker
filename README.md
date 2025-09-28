@@ -8,7 +8,7 @@ Email Me 👉 ✉ *Pugazhenthij283@gmail.com*  For Collaboration/Project or Anyt
 - 💬 *Ask me about:* Ethical Hacking, Cyber Security, Bug Bountry.                  
 - 📫 *How to reach me:* pugazhenthij283@gmail.com      
 - 😄 *Pronouns:* pugazh                 
-- 📄 *Know about my experiences:* [Resume]()
+- 📄 *Know about my experiences:* [Resume]()    
 - ⚡ *Fun fact:* If you want to crack a system, First understand the system.    
   
 ## 🌐 Socials: 
